@@ -68,7 +68,7 @@ Dioxus can be used to deliver webapps, desktop apps, static sites, mobile apps, 
 
 If you know React, then you already know Dioxus.
 
-## Unique features:
+\
 - Desktop apps running natively (no Electron!) in less than 10 lines of code.
 - Incredibly ergonomic and powerful state management.
 - Comprehensive inline documentation - hover and guides for all HTML elements, listeners, and events.
